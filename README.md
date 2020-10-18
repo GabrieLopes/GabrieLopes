@@ -7,5 +7,5 @@ I'm passionate about solving problems and learning. Always open to new challenge
 - 💻 Java, Python, GCP 
 
 How to reach me 👇
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/gabriel-lopes-0b8549189/)](https://www.linkedin.com/in/gabriel-lopes-0b8549189/) 
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/gabriel-lopes-0b8549189/)](https://www.linkedin.com/in/gabriel-lopes-0b8549189/) 
