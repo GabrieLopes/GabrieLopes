@@ -1,10 +1,10 @@
 # Hello World
-My name is Gabriel Lopes and I live in Brazil I'm a Back-End Developer since 2020.
+My name is Gabriel Lopes and I live in Brazil I worked as a Back-End Developer until earlys 2021. Now I'm working with Front-End using React and typescript.
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
 - 🚀 Currently working on GFT Brazil
-- 💻 Java, Python, GCP 
+- 💻 React, Typescript
 
 How to reach me 👇
 
